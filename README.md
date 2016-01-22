@@ -1,2 +1,2 @@
 # hello-world
-Repository created for Github guide.
+Repository created for GitHub guide.
